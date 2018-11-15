@@ -1,4 +1,4 @@
-declare module "session-pouchdb-store" {
+declare module "@hellomouse/session-pouchdb-store" {
   import session = require("express-session");
   import express = require("express");
 
