@@ -1,11 +1,10 @@
 {
-  "name": "session-pouchdb-store",
-  "version": "0.2.1",
+  "name": "@hellomouse/session-pouchdb-store",
+  "version": "0.3.0",
   "description": "PouchDB express session store. Can do realtime session data synchronization via PouchDB server",
   "author": "David Gómez Matarrodona <solzimer@gmail.com>",
-  "email": "solzimer@gmail.com",
   "license": "MIT",
-  "repository": "solzimer/session-pouchdb-store",
+  "repository": "hellomouse/session-pouchdb-store",
   "main": "index.js",
   "keywords": [
     "pouchdb",
