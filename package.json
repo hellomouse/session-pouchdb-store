@@ -23,7 +23,7 @@
   "dependencies": {
     "express-session": "^1.15.6",
     "extend": "^3.0.2",
-    "pouchdb": "^7.0.0",
+    "pouchdb": "github:pouchdb/pouchdb#master",
     "pouchdb-adapter-memory": "^7.0.0"
   },
   "devDependencies": {
